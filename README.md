@@ -1,6 +1,6 @@
 # Hi 👋, I'm Henry Evangelista
 
-🚀 **Web/Mobile Software Engineer**  
+🚀 **Web/Mobile Software Developer**  
 🇧🇷 Brazil
 
 I build digital solutions focused on solving real-world problems through technology.  
