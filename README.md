@@ -15,11 +15,11 @@ Currently improving my skills in modern technologies such as JavaScript, React, 
 
 <p align="left">
   <a href="https://github.com/henryxzl">
-    <img src="https://img.shields.io/badge/GitHub-HENRYEVANGELISTA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-henryxzl-181717?style=for-the-badge&logo=github" />
   </a>
 
   <a href="https://instagram.com/henryyxzl_">
-    <img src="https://img.shields.io/badge/Instagram-@SEUUSER-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@henryyxzl_?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
