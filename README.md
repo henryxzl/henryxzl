@@ -1,13 +1,12 @@
-```md id="w8r3na"
 # Hi 👋, I'm Henry Evangelista
 
 🚀 **Web/Mobile Software Engineer**  
 🇧🇷 Brazil
 
 I build digital solutions focused on solving real-world problems through technology.  
-Passionate about web development, mobile applications, automation, AI integrations, and scalable systems.
+Passionate about web development, mobile applications, AI integrations, automation, scalable systems, and game development.
 
-Currently improving my skills in modern technologies such as JavaScript, React, Firebase, and .NET.
+Currently improving my skills in modern technologies such as JavaScript, React, Firebase, .NET, and Python.
 
 ---
 
@@ -15,11 +14,11 @@ Currently improving my skills in modern technologies such as JavaScript, React, 
 
 <p align="left">
   <a href="https://github.com/henryxzl">
-    <img src="https://img.shields.io/badge/GitHub-henryxzl-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-henryxzl-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
   <a href="https://instagram.com/henryyxzl_">
-    <img src="https://img.shields.io/badge/Instagram-@henryyxzl_?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@henryyxzl_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
@@ -34,6 +33,8 @@ Currently improving my skills in modern technologies such as JavaScript, React, 
 - 🔥 Firebase & real-time systems
 - 🧩 APIs & backend development
 - 📱 Mobile-first applications
+- 🎮 Digital game programming
+- 🕹️ Game development with modern engines
 - 🚀 Learning scalable architectures
 - 🎯 Focused on performance, automation, and clean design
 
@@ -48,21 +49,25 @@ Currently improving my skills in modern technologies such as JavaScript, React, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Game Development & Design
+
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![GameMaker](https://img.shields.io/badge/GameMaker-000000?style=for-the-badge&logo=gamemaker)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white)
 
 ### Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
 
 ---
 
@@ -73,23 +78,7 @@ Currently improving my skills in modern technologies such as JavaScript, React, 
 - 📲 QR Code + Augmented Reality quiz project
 - 🌐 Modern websites and business systems
 - 🤖 AI-powered solutions and integrations
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=tokyonight" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🚀 Philosophy
-
-> _"Technology is not just about code.  
-> It's about creating solutions that impact people and solve real-world problems."_
+- 🎮 Indie game development projects
 
 ---
 
